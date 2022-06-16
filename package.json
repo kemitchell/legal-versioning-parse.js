@@ -6,6 +6,7 @@
   "repository": "kemitchell/legal-versioning-parse.js",
   "license": "BlueOak-1.0.0",
   "files": [
+    "bin.js",
     "index.js"
   ],
   "dependencies": {
